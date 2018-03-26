@@ -1,0 +1,12 @@
+{
+	"domain": "http://test.domain.com",
+	"api": "/api/v1/test",
+    
+    "mysql": {
+        "host": "0.0.0.0",
+        "port": "33106",
+        "username": "usr",
+        "password": "pwd",
+        "db": "dbname"
+    }
+}
